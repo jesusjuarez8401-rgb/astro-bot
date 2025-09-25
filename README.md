@@ -1,6 +1,6 @@
 > ## **`versión: Beta`**
 
-<h1 align="center">🚀 ASTRO-BOT ☄️</h1>
+<h1 align="center">🚀 APPEX-BOT ☄️</h1>
 
 ---
 <p align="center">
@@ -17,3 +17,12 @@
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I11GKDL4)
+.kickall 
+.menu 
+.pack 
+.pack²
+.pack³
+.kick 
+.perra 
+.follar @tag 
+.todos 
